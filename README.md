@@ -1,5 +1,5 @@
 # business_card - html, css
-[View the site here](https://nenorvalls.github.io/business_card/)
+[View here](https://nenorvalls.github.io/business_card/)
 
 A sleek and responsive business card webpage designed to showcase contact information and a professional portrait.
 
